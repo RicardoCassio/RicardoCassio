@@ -26,7 +26,7 @@
   <a href = "mailto:cassio.cacule@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ricardo-cassio-5a1190a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/RicardoCassio/RicardoCassio/blob/output/github-contribution-grid-snake.svg)
   
   
  
